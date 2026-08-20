@@ -41,6 +41,6 @@ Métodos para **detectar y visualizar valores atípicos** en los datos, usando g
 
 ## Autor
 
-**Gilberto Pérez** — Analista de datos y desarrollador BI.
+**Gilvard Pérez** — Analista de datos y desarrollador BI.
 
 Si este material te resulta útil, ¡no dudes en darle una estrella ⭐ al repositorio!
